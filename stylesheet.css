@@ -1,0 +1,33 @@
+body {
+	font-family: 'Kosugi Maru', sans-serif;
+}
+
+#main {
+	display: grid;
+	align-items: justify;
+	color: white;
+}
+
+#formDiv {
+	display: grid;
+	justify-content: left;
+	width: 30%;
+	height: 55%;
+	margin: 10% auto;
+	background-color: #715AFF;
+	padding: 20px;
+}
+
+input {
+	margin-bottom: 2em;
+}
+
+#botao {
+	margin: 7%;
+	float: right;
+}
+
+#titulo {
+	margin: 5% 12% 5%;
+	float: right;
+}
